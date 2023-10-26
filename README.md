@@ -1,5 +1,8 @@
 # Padrões de Projeto no Código
 
+## O que são Design Patterns?
+Design Patterns (Padrões de Projeto) são soluções reutilizáveis para problemas comuns que surgem durante o desenvolvimento de software. Eles representam as melhores práticas utilizadas por desenvolvedores experientes para criar software robusto e flexível. Design Patterns são um aspecto fundamental da Engenharia de Software e fornecem uma maneira de abstrair conceitos complexos de design em soluções simples e compreensíveis.
+
 Este repositório contém exemplos de código que demonstram a implementação de vários padrões de projeto em Kotlin. Abaixo, estão os padrões de projeto e uma breve descrição de cada um deles:
 
 ## Padrão de Projeto Adapter
