@@ -17,3 +17,7 @@ As **Funções de Extensão** são um recurso poderoso que permite adicionar mé
 ## Padrão de Projeto Singleton
 
 O **Padrão de Projeto Singleton** assegura que exista apenas uma instância de uma classe e fornece um ponto centralizado para acessá-la. Isso é útil para manter uma única ocorrência de uma classe responsável pelo controle de recursos compartilhados. No código apresentado, há uma implementação de um gerenciador de usuários como um Singleton.
+
+## Execução Paralela e Assíncrona
+
+Além dos padrões de projeto mencionados acima, o repositório também contém exemplos de execução paralela e assíncrona. O código demonstra como realizar downloads de URLs em paralelo usando threads.
